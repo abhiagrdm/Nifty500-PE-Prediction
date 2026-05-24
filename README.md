@@ -121,12 +121,5 @@ The dataset covers **Nifty 500 constituents** with FY2024 financials: ownership 
 
 ---
 
-## What I'd build next
-
-- Add a time dimension (multi-year panel) to separate *cyclical* from *structural* sector premiums.
-- Test SHAP values for per-company valuation attribution — useful as a screening tool for over/undervalued names.
-- Wrap the model in a small dashboard that flags companies trading furthest from their fundamental fair value.
-
----
-
-*Built as a quantitative equity-research project bridging machine learning and fundamental valuation.*
+*Author: Abhishek Agrawal · MBA Finance · 2026*
+*Connect: https://www.linkedin.com/in/abhisheka24 · abhishek.iitk.mba@gmail.com*
